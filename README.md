@@ -1,3 +1,3 @@
-# archive
-Personal files and backups.
-my-private-config/private/
+# Dotfiles
+Katehano welalo [aini](https://github.com/ryshaal/my-private-config/tree/3dd06a2fbc48a0d11fa7410e0577161eb57c2355/private).
+    *`my-private-config/private/backup.gpg`*

@@ -1,2 +1,3 @@
 # archive
-Miscellaneous personal files and backups.
+Personal files and backups.
+my-private-config/private/
